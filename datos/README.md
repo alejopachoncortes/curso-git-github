@@ -7,4 +7,4 @@ Aquí irán archivos de datos (CSV, JSON, Markdown, etc.) que ustedes, como estu
 Más adelante el profesor indicará qué archivos crear y cómo trabajar sobre ellos.
 
 ## Fuente de los datos.
-Datos del banco mundial [URL] (https://www.bancomundial.org/ext/es/home)
+Datos del banco mundial [URL]: (https://www.bancomundial.org/ext/es/home)
